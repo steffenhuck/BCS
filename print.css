@@ -1,0 +1,12 @@
+@page { margin: 18mm; }
+body{ background: #ffffff !important; color:#000 !important; }
+.site-header, .site-footer, .toc, .controls, .skip { display:none !important; }
+.strip{ display:none !important; }
+.layout{ display:block !important; padding:0 !important; }
+.reading{ max-width: 100% !important; }
+.dialogue{ box-shadow:none !important; border: 1px solid #bbb !important; border-radius: 10px !important; }
+.line{ font-size: 12.5pt !important; line-height: 1.5 !important; }
+.who{ font-size: 9pt !important; color:#444 !important; }
+.part-title{ color:#444 !important; }
+.plate img{ border: 1px solid #bbb !important; border-radius: 8px !important; box-shadow:none !important; }
+.author-note{ font-size: 10pt !important; color:#444 !important; }
